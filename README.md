@@ -16,7 +16,7 @@
 * 隱私保障：嚴密數據管理機制，保護使用者隱私。
 * 社區互助：業主互相提醒，共同維護租賃市場健康。
 
-標語：「數據篩查，自保必備」
+「 數據篩查，自保必備 」
 
 简体中文版本
 不良租客名单 JOJOBLACKLIST
@@ -36,7 +36,7 @@
 * 隐私保障：严格数据管理机制，保护用户隐私。
 * 社区互助：业主相互提醒，共同维护租赁市场秩序。
 
-标语：“数据筛查，自保必备”
+「 数据筛查，自保必备 」
 
 English Version
 JOJOBLACKLIST – Bad Tenant Database
@@ -56,4 +56,4 @@ Key Advantages:
 * Privacy Assurance: Strong data management mechanisms safeguard user information.
 * Community Support: Landlords can help each other by sharing information and maintaining a healthier rental market together.
 
-Tagline: "Data screening, essential for self-protection"
+「 Data screening, essential for self-protection 」
